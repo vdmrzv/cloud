@@ -4,11 +4,11 @@ How to Anchor Box
 
 https://medium.com/@vivek.yadav/part-1-generating-anchor-boxes-for-yolo-like-network-for-vehicle-detection-using-kitti-dataset-b2fe033e5807
 
-SSD Tutorial
+SSD Tutorial Part 1
 
 https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-2-dd96bdf4f434
 
-Anchor boxes
+Anchor boxes REDDIT question
 
 https://www.reddit.com/r/computervision/comments/aosaok/how_to_tune_anchor_boxes_in_ssd_family_of/
 
