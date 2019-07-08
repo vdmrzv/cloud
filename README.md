@@ -1,5 +1,9 @@
 # Links
 
+How to Anchor Box
+
+https://medium.com/@vivek.yadav/part-1-generating-anchor-boxes-for-yolo-like-network-for-vehicle-detection-using-kitti-dataset-b2fe033e5807
+
 SSD Tutorial
 
 https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-2-dd96bdf4f434
