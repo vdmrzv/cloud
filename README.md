@@ -1,5 +1,9 @@
 # Links
 
+SSD Tutorial
+
+https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-2-dd96bdf4f434
+
 Anchor boxes
 
 https://www.reddit.com/r/computervision/comments/aosaok/how_to_tune_anchor_boxes_in_ssd_family_of/
