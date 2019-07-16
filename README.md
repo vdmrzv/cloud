@@ -1,4 +1,7 @@
 # Links
+AP and mAP
+
+https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
 
 UAV Dataset
 
