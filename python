@@ -1,0 +1,3 @@
+for i, j enumerate(mylist)
+i - индекс
+j - значение в листе
