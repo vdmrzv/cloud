@@ -1,4 +1,9 @@
 # Links
+
+(3, 255, 255) to (255, 255, 3) and back
+
+https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
+
 Metrics for object detection
 
 https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page---------------------------
