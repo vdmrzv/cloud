@@ -1,6 +1,9 @@
 # Links
+Отчет (RUS)
 
-Отчет
+https://docs.google.com/document/d/1iDcKMhk4CEUaLUxHw2pGLsxF1srUXWWJkop_aqm2CNg/edit?usp=sharing
+
+Отчет (ENG)
 
 https://docs.google.com/document/d/1O306iidyIlCvcMnnuC6MkgoiuqiHXw1bDnXIQmD-P2o/edit?usp=sharing
 
