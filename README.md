@@ -8,14 +8,6 @@ Convolutions
 
 https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
 
-Отчет (RUS)
-
-https://docs.google.com/document/d/1iDcKMhk4CEUaLUxHw2pGLsxF1srUXWWJkop_aqm2CNg/edit?usp=sharing
-
-Отчет (ENG)
-
-https://docs.google.com/document/d/1O306iidyIlCvcMnnuC6MkgoiuqiHXw1bDnXIQmD-P2o/edit?usp=sharing
-
 (3, 255, 255) to (255, 255, 3) and back
 
 https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
