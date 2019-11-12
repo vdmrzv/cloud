@@ -15,8 +15,11 @@ FaceNet                     https://arxiv.org/pdf/1503.03832.pdf
 FasterRCNN                  https://arxiv.org/pdf/1506.01497.pdf
 MobileNet v1                https://arxiv.org/pdf/1704.04861.pdf
 MobileNet v2                https://arxiv.org/pdf/1801.04381.pdf
+RefineDet                   https://arxiv.org/pdf/1711.06897.pdf
 ResNet                      https://arxiv.org/pdf/1512.03385.pdf
 ResNext                     https://arxiv.org/pdf/1611.05431.pdf
+RetinaNet                   https://arxiv.org/pdf/1708.02002.pdf
+S^3FD                       https://arxiv.org/pdf/1708.05237.pdf
 SqueezeNet                  https://arxiv.org/pdf/1602.07360.pdf
 SSD                         https://arxiv.org/pdf/1512.02325.pdf    https://github.com/amdegroot/ssd.pytorch
 SSD with LSTM               https://arxiv.org/pdf/1711.06368.pdf
