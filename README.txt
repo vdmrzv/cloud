@@ -21,6 +21,9 @@ https://sites.google.com/site/daviddo0323/projects/uavdt
 YOLOv3 from scratch
 https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 
+SSDs
+https://github.com/uoip/SSD-variants
+
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
