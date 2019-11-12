@@ -47,7 +47,7 @@ Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.p
 -                                                     MODELS                                                          -
 -----------------------------------------------------------------------------------------------------------------------
 
-DeepFace                    https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf
+DeepFace                    https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
 DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
 DSSD                        https://arxiv.org/pdf/1701.06659.pdf
 FaceNet                     https://arxiv.org/pdf/1503.03832.pdf
