@@ -1,4 +1,4 @@
-MISCELLANEOUS
+____MISCELLANEOUS____
 
 SOTA            
 https://paperswithcode.com/sota
@@ -12,20 +12,22 @@ https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-
 Metrics for object detection  
 https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page---------------------------
 
-AP and mAP
-https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
-
 Learning to learn with gradients dissertation
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
 
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
+
+____TRAINING____
+
+A Recipe for Training Neural Networks         http://karpathy.github.io/2019/04/25/recipe/
 Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
 Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
 Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 
-MODELS
+
+____MODELS____
 
 DeepFace                    https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf
 DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
@@ -44,7 +46,7 @@ SSD                         https://arxiv.org/pdf/1512.02325.pdf    https://gith
 SSD with LSTM               https://arxiv.org/pdf/1711.06368.pdf
 SSD with Attentional LSTM   https://arxiv.org/pdf/1803.00197.pdf    https://github.com/SeanChenxy/TSSD-OTA
 ShuffleNet v1               https://arxiv.org/pdf/1707.01083.pdf
-ShuffleNet v2               https://arxiv.org/pdf/1807.11164.pdf
+ShuffleNet v2               https://arxiv.org/pdf/1807.11164.pdf    
 VarGFaceNet                 https://arxiv.org/pdf/1910.04985v3.pdf
 VGG                         https://arxiv.org/pdf/1409.1556.pdf
 YOLO v1                     https://arxiv.org/pdf/1506.02640.pdf
