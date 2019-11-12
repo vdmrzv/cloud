@@ -15,7 +15,6 @@ https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page------
 AP and mAP
 https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
 
-
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
