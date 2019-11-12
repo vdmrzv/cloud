@@ -3,7 +3,7 @@ jupyter notebook --ip 0.0.0.0 --port 8888 --allow-root &
 Commands:
 
 NV_GPU=7,8 nvidia-docker run --shm-size 8G  --rm -it -p 8890:8888 -v /storage:/storage
-NV_GPU=0,1 nvidia-docker run --ipc=host --rm -it -v /storage:/storage --name "name" image-name
+NV_GPU=0,1 nvidia-docker run --ipc=host --rm -it -v /storage:/storage --name "name" docker-image-name
 
 docker build -t "NAME" .    = create new image
 docker rmi "ID" - force     = delete image
