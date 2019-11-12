@@ -1,2 +1,16 @@
-Attention Is All You Need 
-https://arxiv.org/pdf/1706.03762.pdf
+MISC
+
+Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
+Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
+
+
+MODELS
+
+FasterRCNN                  https://arxiv.org/pdf/1506.01497.pdf
+MobileNet v1                https://arxiv.org/pdf/1704.04861.pdf
+MobileNet v2                https://arxiv.org/pdf/1801.04381.pdf
+SSD with AttentionalLSTM    https://arxiv.org/pdf/1803.00197.pdf
+ShuffleNet v1               https://arxiv.org/pdf/1707.01083.pdf
+ShuffleNet v2               https://arxiv.org/pdf/1807.11164.pdf
+SSD                         https://arxiv.org/pdf/1512.02325.pdf
+VarGFaceNet                 https://arxiv.org/pdf/1910.04985v3.pdf
