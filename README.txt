@@ -1,4 +1,4 @@
-____MISCELLANEOUS____
+_________________________________________________MISCELLANEOUS_____________________________________________________
 
 SOTA            
 https://paperswithcode.com/sota
@@ -31,7 +31,7 @@ GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
 
-____TRAINING____
+_________________________________________________TRAINING_________________________________________________
 
 A Recipe for Training Neural Networks         http://karpathy.github.io/2019/04/25/recipe/
 Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
@@ -39,7 +39,7 @@ Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.p
 Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 
 
-____MODELS____
+_________________________________________________MODELS_________________________________________________
 
 DeepFace                    https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf
 DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
