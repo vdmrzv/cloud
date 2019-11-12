@@ -24,6 +24,9 @@ https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 SSDs
 https://github.com/uoip/SSD-variants
 
+SSD Tutorial
+https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-1-38185e84bd79
+
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
