@@ -1,12 +1,27 @@
-MISC
+MISCELLANEOUS
 
-Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
-Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
-Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
+SOTA            
+https://paperswithcode.com/sota
+
+Convolutions    
+https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
+
+(3, 255, 255) to (255, 255, 3) and back   
+https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
+
+Metrics for object detection  
+https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page---------------------------
+
+AP and mAP
+https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
+
 
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
+Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
+Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
+Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 
 MODELS
 
