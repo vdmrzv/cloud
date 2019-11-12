@@ -15,6 +15,9 @@ https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page------
 AP and mAP
 https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
 
+Learning to learn with gradients dissertation
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
+
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
