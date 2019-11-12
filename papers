@@ -2,8 +2,10 @@ MISC
 
 Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
 Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
-Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf 
+Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 
+GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
+Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
 
 MODELS
