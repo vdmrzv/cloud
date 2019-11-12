@@ -15,6 +15,12 @@ https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page------
 Learning to learn with gradients dissertation
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
 
+UAV Dataset
+https://sites.google.com/site/daviddo0323/projects/uavdt
+
+YOLOv3 from scratch
+https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+
 GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
