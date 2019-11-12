@@ -1,5 +1,0 @@
--T cols (--tabsize=cols)
-    Set the size (width) of a tab to cols columns.
-    The value of cols must be greater than 0. The default value is 8.
--E (--tabstospaces)
-    Convert typed tabs to spaces.
