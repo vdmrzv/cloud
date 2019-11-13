@@ -40,6 +40,7 @@ Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cp
 A Recipe for Training Neural Networks         http://karpathy.github.io/2019/04/25/recipe/
 Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
 Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.pdf
+Siamese Neural Networks                       https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 
 
