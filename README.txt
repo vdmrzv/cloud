@@ -2,17 +2,17 @@
 -                                                   MISCELLANEOUS                                                     -
 -----------------------------------------------------------------------------------------------------------------------
 
-SOTA            https://paperswithcode.com/sota
-Convolutions    https://bit.ly/37pwM5J
-(3, 255, 255) to (255, 255, 3) and back         https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
-Metrics for object detection                    https://bit.ly/37pwSu7
-Learning to learn with gradients dissertation   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
+State of the art      https://paperswithcode.com/sota
+Convolutions          https://bit.ly/37pwM5J
 UAV Dataset           https://sites.google.com/site/daviddo0323/projects/uavdt
 YOLOv3 from scratch   https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 SSDs                  https://github.com/uoip/SSD-variants
-SSD Tutorial          https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-1-38185e84bd79
+SSD Tutorial          https://bit.ly/2D09MMx
 GAN Zoo               https://github.com/hindupuravinash/the-gan-zoo
 Dataset Zoo           https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
+(3, 255, 255) to (255, 255, 3) and back         https://bit.ly/2OyVcAU
+Metrics for object detection                    https://bit.ly/37pwSu7
+Learning to learn with gradients dissertation   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
 
 -----------------------------------------------------------------------------------------------------------------------
 -                                                    TRAINING                                                         -
