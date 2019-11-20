@@ -80,3 +80,6 @@ YOLO v3                     https://arxiv.org/pdf/1804.02767.pdf
 
 Where do we stand on maximum entropy?
 https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
+
+Variational Bayesian methods
+https://en.wikipedia.org/wiki/Variational_Bayesian_methods
