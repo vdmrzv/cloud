@@ -7,7 +7,6 @@ Convolutions    https://bit.ly/37pwM5J
 (3, 255, 255) to (255, 255, 3) and back         https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
 Metrics for object detection                    https://bit.ly/37pwSu7
 Learning to learn with gradients dissertation   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
-
 UAV Dataset           https://sites.google.com/site/daviddo0323/projects/uavdt
 YOLOv3 from scratch   https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 SSDs                  https://github.com/uoip/SSD-variants
@@ -25,7 +24,6 @@ Distilling the Knowledge in a Neural Network  https://arxiv.org/pdf/1503.02531.p
 Siamese Neural Networks                       https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.pdf
 i-RevNet: Deep Invertible Networks            https://arxiv.org/pdf/1802.07088.pdf
-Backpropagation Without Storing Activations   https://arxiv.org/pdf/1707.04585.pdf
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -59,15 +57,13 @@ YOLO v3                     https://arxiv.org/pdf/1804.02767.pdf
 -----------------------------------------------------------------------------------------------------------------------
 -                                                  FUTURE OF ML?                                                      -
 -----------------------------------------------------------------------------------------------------------------------
-Stacked Capsule Autoencoders        https://arxiv.org/pdf/1906.06818.pdf
-Dynamic Routing Between Capsules    https://arxiv.org/pdf/1710.09829.pdf
+Stacked Capsule Autoencoders            https://arxiv.org/pdf/1906.06818.pdf
+Dynamic Routing Between Capsules        https://arxiv.org/pdf/1710.09829.pdf
+Backprop Without Storing Activations    https://arxiv.org/pdf/1707.04585.pdf
 
 -----------------------------------------------------------------------------------------------------------------------
 -                                                   MISC NOT ML                                                       -
 -----------------------------------------------------------------------------------------------------------------------
 
-Where do we stand on maximum entropy?
-https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
-
-Variational Bayesian methods
-https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+Where do we stand on maximum entropy?   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
+Variational Bayesian methods            https://en.wikipedia.org/wiki/Variational_Bayesian_methods
