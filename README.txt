@@ -73,3 +73,10 @@ VGG                         https://arxiv.org/pdf/1409.1556.pdf
 YOLO v1                     https://arxiv.org/pdf/1506.02640.pdf
 YOLO v2                     https://arxiv.org/pdf/1612.08242.pdf
 YOLO v3                     https://arxiv.org/pdf/1804.02767.pdf
+
+-----------------------------------------------------------------------------------------------------------------------
+-                                                    MISC NOT NL                                                      -
+-----------------------------------------------------------------------------------------------------------------------
+
+Where do we stand on maximum entropy?
+https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
