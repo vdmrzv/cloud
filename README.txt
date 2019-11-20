@@ -2,36 +2,18 @@
 -                                                   MISCELLANEOUS                                                     -
 -----------------------------------------------------------------------------------------------------------------------
 
-SOTA            
-https://paperswithcode.com/sota
+SOTA            https://paperswithcode.com/sota
+Convolutions    https://bit.ly/37pwM5J
+(3, 255, 255) to (255, 255, 3) and back         https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
+Metrics for object detection                    https://bit.ly/37pwSu7
+Learning to learn with gradients dissertation   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
 
-Convolutions    
-https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
-
-(3, 255, 255) to (255, 255, 3) and back   
-https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
-
-Metrics for object detection  
-https://github.com/rafaelpadilla/Object-Detection-Metrics?source=post_page---------------------------
-
-Learning to learn with gradients dissertation
-https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
-
-UAV Dataset
-https://sites.google.com/site/daviddo0323/projects/uavdt
-
-YOLOv3 from scratch
-https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
-
-SSDs
-https://github.com/uoip/SSD-variants
-
-SSD Tutorial
-https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-1-38185e84bd79
-
-GAN Zoo           https://github.com/hindupuravinash/the-gan-zoo
-Dataset Zoo       https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
-
+UAV Dataset           https://sites.google.com/site/daviddo0323/projects/uavdt
+YOLOv3 from scratch   https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+SSDs                  https://github.com/uoip/SSD-variants
+SSD Tutorial          https://towardsdatascience.com/learning-note-single-shot-multibox-detector-with-pytorch-part-1-38185e84bd79
+GAN Zoo               https://github.com/hindupuravinash/the-gan-zoo
+Dataset Zoo           https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
 
 -----------------------------------------------------------------------------------------------------------------------
 -                                                    TRAINING                                                         -
@@ -75,7 +57,13 @@ YOLO v2                     https://arxiv.org/pdf/1612.08242.pdf
 YOLO v3                     https://arxiv.org/pdf/1804.02767.pdf
 
 -----------------------------------------------------------------------------------------------------------------------
--                                                    MISC NOT NL                                                      -
+-                                                  FUTURE OF ML?                                                      -
+-----------------------------------------------------------------------------------------------------------------------
+Stacked Capsule Autoencoders        https://arxiv.org/pdf/1906.06818.pdf
+Dynamic Routing Between Capsules    https://arxiv.org/pdf/1710.09829.pdf
+
+-----------------------------------------------------------------------------------------------------------------------
+-                                                   MISC NOT ML                                                       -
 -----------------------------------------------------------------------------------------------------------------------
 
 Where do we stand on maximum entropy?
