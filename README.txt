@@ -1,6 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 -                                                   MISCELLANEOUS                                                     -
 -----------------------------------------------------------------------------------------------------------------------
+Pohodu nice explanation of GRU and LSTM units   https://arxiv.org/pdf/1412.3555v1.pdf
 RNN, Bi-directional RNN, DeepRNN, GRU, LSTM     https://stanford.io/2O8aVIf
 State of the art                                https://paperswithcode.com/sota
 Convolutions                                    https://bit.ly/37pwM5J
