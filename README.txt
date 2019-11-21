@@ -1,18 +1,18 @@
 -----------------------------------------------------------------------------------------------------------------------
 -                                                   MISCELLANEOUS                                                     -
 -----------------------------------------------------------------------------------------------------------------------
-
-State of the art      https://paperswithcode.com/sota
-Convolutions          https://bit.ly/37pwM5J
-UAV Dataset           https://sites.google.com/site/daviddo0323/projects/uavdt
-YOLOv3 from scratch   https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
-SSDs                  https://github.com/uoip/SSD-variants
-SSD Tutorial          https://bit.ly/2D09MMx
-GAN Zoo               https://github.com/hindupuravinash/the-gan-zoo
-Dataset Zoo           https://github.com/deepinsight/insightface/wiki/Dataset-Zoo#cplfw-5749-ids13233-images6k-pairs16
+RNN, Bi-directional RNN, DeepRNN, GRU, LSTM     https://stanford.io/2O8aVIf
+State of the art                                https://paperswithcode.com/sota
+Convolutions                                    https://bit.ly/37pwM5J
+UAV Dataset                                     https://bit.ly/339ar99
+YOLOv3 from scratch                             https://bit.ly/2OvNtDW
+SSDs                                            https://bit.ly/35pPjwC
+SSD Tutorial                                    https://bit.ly/2D09MMx
+GAN Zoo                                         https://bit.ly/2QF67fi
+Dataset Zoo                                     https://bit.ly/2KGa3Zp
 (3, 255, 255) to (255, 255, 3) and back         https://bit.ly/2OyVcAU
 Metrics for object detection                    https://bit.ly/37pwSu7
-Learning to learn with gradients dissertation   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-105.pdf
+Learning to learn with gradients dissertation   https://bit.ly/33aGu8u
 
 -----------------------------------------------------------------------------------------------------------------------
 -                                                    TRAINING                                                         -
@@ -30,7 +30,7 @@ i-RevNet: Deep Invertible Networks            https://arxiv.org/pdf/1802.07088.p
 -                                                     MODELS                                                          -
 -----------------------------------------------------------------------------------------------------------------------
 
-DeepFace                    https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
+DeepFace                    https://bit.ly/2KGWrgo
 DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
 DSSD                        https://arxiv.org/pdf/1701.06659.pdf
 FaceNet                     https://arxiv.org/pdf/1503.03832.pdf
@@ -44,8 +44,8 @@ RetinaNet                   https://arxiv.org/pdf/1708.02002.pdf
 S^3FD                       https://arxiv.org/pdf/1708.05237.pdf
 SqueezeNet                  https://arxiv.org/pdf/1602.07360.pdf
 SSD                         https://arxiv.org/pdf/1512.02325.pdf    https://github.com/amdegroot/ssd.pytorch
-SSD with LSTM               https://arxiv.org/pdf/1711.06368.pdf
-SSD with Attentional LSTM   https://arxiv.org/pdf/1803.00197.pdf    https://github.com/SeanChenxy/TSSD-OTA
+SSD w/ LSTM                 https://arxiv.org/pdf/1711.06368.pdf
+SSD w/ Attentional LSTM     https://arxiv.org/pdf/1803.00197.pdf    https://github.com/SeanChenxy/TSSD-OTA
 ShuffleNet v1               https://arxiv.org/pdf/1707.01083.pdf
 ShuffleNet v2               https://arxiv.org/pdf/1807.11164.pdf    
 VarGFaceNet                 https://arxiv.org/pdf/1910.04985v3.pdf
