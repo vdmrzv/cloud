@@ -65,5 +65,5 @@ Backprop Without Storing Activations    https://arxiv.org/pdf/1707.04585.pdf
 -                                                   MISC NOT ML                                                       -
 -----------------------------------------------------------------------------------------------------------------------
 
-Where do we stand on maximum entropy?   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
-Variational Bayesian methods            https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+Where do we stand on maximum entropy? (too hard LOL)   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
+Variational Bayesian methods                           https://en.wikipedia.org/wiki/Variational_Bayesian_methods
