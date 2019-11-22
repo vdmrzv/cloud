@@ -14,7 +14,7 @@ NV_GPU=7,8 nvidia-docker run --shm-size 8G --rm -it -p 8890:8888 -v /storage:/st
 # --ipc=host
 NV_GPU=0,1 nvidia-docker run --ipc=host --rm -it -v /storage:/storage "docker-image-name" --name "name" 
 
-#docker build -t "NAME" .    = create new image
-#docker rmi "ID" - force     = delete image
-#docker images               = show all images
-#docker ps                   = show working containers
+docker build -t "NAME" .    = create new image
+docker rmi "ID" - force     = delete image
+docker images               = show all images
+docker ps                   = show working containers
