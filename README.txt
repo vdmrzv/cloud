@@ -10,7 +10,6 @@ SSDs                                            https://bit.ly/35pPjwC
 SSD Tutorial                                    https://bit.ly/2D09MMx
 GAN Zoo                                         https://bit.ly/2QF67fi
 Dataset Zoo                                     https://bit.ly/2KGa3Zp
-(3, 255, 255) to (255, 255, 3) and back         https://bit.ly/2OyVcAU
 Metrics for object detection                    https://bit.ly/37pwSu7
 Learning to learn with gradients dissertation   https://bit.ly/33aGu8u
 
