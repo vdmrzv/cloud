@@ -3,10 +3,10 @@ jupyter notebook --ip 0.0.0.0 --port 8888 --allow-root &
 Commands:
 
 # DISPLAY & jupiter
-NV_GPU=9 nvidia-docker run --rm -it v /storage:/storage -e DISPLAY=$DISPLAY -p 1000:8888 -p 6040:6040 "docker-image-name" --name "name"
+NV_GPU=9 nvidia-docker run --rm -it -v /storage:/storage -e DISPLAY=$DISPLAY -p 1000:8888 -p 6040:6040 "docker-image-name" --name "name"
 
 # Tensorboard
-NV_GPU=3 nvidia-docker run --rm -it -v /storage:/storage -p 6040:6040 --name "name" 02c9723e40be
+NV_GPU=3 nvidia-docker run --rm -it -v /storage:/storage -p 6040:6040 "docker-image-name" --name "name"
 
 # --shm-size 8G (shared memory)
 NV_GPU=7,8 nvidia-docker run --shm-size 8G --rm -it -p 8890:8888 -v /storage:/storage "docker-image-name" -name "name"
