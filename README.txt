@@ -24,6 +24,7 @@ i-RevNet: Deep Invertible Networks            https://arxiv.org/pdf/1802.07088.p
 
 
 _________________________________________________________MODELS_________________________________________________________
+
 DeepFace                    https://bit.ly/2KGWrgo
 DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
 DSSD                        https://arxiv.org/pdf/1701.06659.pdf
