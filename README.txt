@@ -30,7 +30,7 @@ DenseNet                    https://arxiv.org/pdf/1608.06993.pdf
 DSSD                        https://arxiv.org/pdf/1701.06659.pdf
 FaceNet                     https://arxiv.org/pdf/1503.03832.pdf
 FasterRCNN                  https://arxiv.org/pdf/1506.01497.pdf
-MobileNet v1                https://arxiv.org/pdf/1704.04861.pdf
+MobileNet v1................https://arxiv.org/pdf/1704.04861.pdf
 MobileNet v2                https://arxiv.org/pdf/1801.04381.pdf
 RefineDet                   https://arxiv.org/pdf/1711.06897.pdf
 ResNet                      https://arxiv.org/pdf/1512.03385.pdf
@@ -59,3 +59,4 @@ _____________________________________________________MISC NOT ML________________
 
 Where do we stand on maximum entropy? (too hard LOL)   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
 Variational Bayesian methods                           https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+How Do I Measure Performance?                          https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/
