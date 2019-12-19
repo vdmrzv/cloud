@@ -1,17 +1,18 @@
 ____________________________________________________MISCELLANEOUS_______________________________________________________
 
-GRU and LSTM units                              https://arxiv.org/pdf/1412.3555v1.pdf
-RNN, Bi-directional RNN, DeepRNN, GRU, LSTM     https://stanford.io/2O8aVIf
-State of the art                                https://paperswithcode.com/sota
-Convolutions                                    https://bit.ly/37pwM5J
-UAV Dataset                                     https://bit.ly/339ar99
-YOLOv3 from scratch                             https://bit.ly/2OvNtDW
-SSDs                                            https://bit.ly/35pPjwC
-SSD Tutorial                                    https://bit.ly/2D09MMx
-GAN Zoo                                         https://bit.ly/2QF67fi
-Dataset Zoo                                     https://bit.ly/2KGa3Zp
-Metrics for object detection                    https://bit.ly/37pwSu7
-Learning to learn with gradients dissertation   https://bit.ly/33aGu8u
+GRU and LSTM units..................................https://arxiv.org/pdf/1412.3555v1.pdf
+NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION..https://arxiv.org/pdf/1410.8516.pdf
+RNN, Bi-directional RNN, DeepRNN, GRU, LSTM.........https://stanford.io/2O8aVIf
+State of the art....................................https://paperswithcode.com/sota
+Convolutions........................................https://bit.ly/37pwM5J
+UAV Dataset.........................................https://bit.ly/339ar99
+YOLOv3 from scratch.................................https://bit.ly/2OvNtDW
+SSDs................................................https://bit.ly/35pPjwC
+SSD Tutorial........................................https://bit.ly/2D09MMx
+GAN Zoo.............................................https://bit.ly/2QF67fi
+Dataset Zoo.........................................https://bit.ly/2KGa3Zp
+Metrics for object detection........................https://bit.ly/37pwSu7
+Learning to learn with gradients dissertation.......https://bit.ly/33aGu8u
 
 ________________________________________________________TRAINING________________________________________________________
 
