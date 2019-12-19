@@ -25,6 +25,8 @@ i-RevNet: Deep Invertible Networks            https://arxiv.org/pdf/1802.07088.p
 
 _________________________________________________________MODELS_________________________________________________________
 
+GAN.........................https://arxiv.org/pdf/1406.2661.pdf
+Conditional GAN.............https://arxiv.org/pdf/1611.07004.pdf
 DeepFace....................https://bit.ly/2KGWrgo
 DenseNet....................https://arxiv.org/pdf/1608.06993.pdf
 DSSD........................https://arxiv.org/pdf/1701.06659.pdf
