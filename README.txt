@@ -53,14 +53,14 @@ YOLO v1.....................https://arxiv.org/pdf/1506.02640.pdf
 YOLO v2.....................https://arxiv.org/pdf/1612.08242.pdf
 YOLO v3.....................https://arxiv.org/pdf/1804.02767.pdf
 
-____________________________________________________FUTURE OF ML?_______________________________________________________
+_FUTURE OF ML?_______________________________________________________
 
 Stacked Capsule Autoencoders            https://arxiv.org/pdf/1906.06818.pdf
 Dynamic Routing Between Capsules        https://arxiv.org/pdf/1710.09829.pdf
 Backprop Without Storing Activations    https://arxiv.org/pdf/1707.04585.pdf
 
-_____________________________________________________MISC NOT ML________________________________________________________
+_MISC NOT ML________________________________________________________
 
-Where do we stand on maximum entropy? (too hard LOL)   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
-Variational Bayesian methods                           https://en.wikipedia.org/wiki/Variational_Bayesian_methods
-How Do I Measure Performance?                          https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/
+Where do we stand on maximum entropy?   https://bayes.wustl.edu/etj/articles/stand.on.entropy.pdf
+Variational Bayesian methods            https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+How Do I Measure Performance?           https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/
