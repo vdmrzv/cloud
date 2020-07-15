@@ -1,4 +1,4 @@
-____________________________________________________MISCELLANEOUS_______________________________________________________
+_MISCELLANEOUS_______________________________________________________
 
 Google dataset search...............................http://bit.ly/32xw3gG
 GRU and LSTM units..................................https://arxiv.org/pdf/1412.3555v1.pdf
@@ -15,7 +15,7 @@ Dataset Zoo.........................................https://bit.ly/2KGa3Zp
 Metrics for object detection........................https://bit.ly/37pwSu7
 Learning to learn with gradients dissertation.......https://bit.ly/33aGu8u
 
-________________________________________________________TRAINING________________________________________________________
+_TRAINING________________________________________________________
 
 A Recipe for Training Neural Networks         http://karpathy.github.io/2019/04/25/recipe/
 Attention Is All You Need                     https://arxiv.org/pdf/1706.03762.pdf
@@ -25,7 +25,7 @@ Well-Read Students Learn Better               https://arxiv.org/pdf/1908.08962.p
 i-RevNet: Deep Invertible Networks            https://arxiv.org/pdf/1802.07088.pdf
 
 
-_________________________________________________________MODELS_________________________________________________________
+_MODELS_________________________________________________________
 
 GAN.........................https://arxiv.org/pdf/1406.2661.pdf
 Conditional GAN.............https://arxiv.org/pdf/1611.07004.pdf
