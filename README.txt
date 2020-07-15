@@ -1,5 +1,6 @@
 _MISCELLANEOUS_______________________________________________________
 
+NVIDIA Apex: Mixed-Precision Training...............https://bit.ly/395ASRB
 Google dataset search...............................http://bit.ly/32xw3gG
 GRU and LSTM units..................................https://arxiv.org/pdf/1412.3555v1.pdf
 NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION..https://arxiv.org/pdf/1410.8516.pdf
