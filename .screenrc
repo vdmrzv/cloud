@@ -1,0 +1,12 @@
+#escape ^Bb
+vbell off
+hardstatus off
+startup_message off
+deflogin on
+defnonblock 5
+defscrollback 4096
+termcapinfo vt100 dl=5\E[M
+hardstatus alwayslastline "%{= gW} %S | %-w%{wk}%n*%t%{-}%+w %=%{G} %=%{gW} %c:%s %d/%m/%y "
+screen -t 'nano'
+screen -t 'bash'
+select 0

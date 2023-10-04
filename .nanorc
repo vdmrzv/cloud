@@ -1,0 +1,11 @@
+#set autoindent
+#set casesensitive
+#set minibar
+set smarthome
+set nowrap
+set tabsize 2
+set tabstospaces
+set linenumbers
+set smooth
+set nohelp
+set constantshow
