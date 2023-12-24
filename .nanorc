@@ -3,8 +3,8 @@
 #set minibar
 set smarthome
 set nowrap
-set tabsize 2
-set tabstospaces
+#set tabsize 8
+#set tabstospaces
 set linenumbers
 set smooth
 set nohelp
