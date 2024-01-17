@@ -19,7 +19,7 @@
 ## Automatically indent a newly created line to the same number of
 ## tabs and/or spaces as the preceding line -- or as the next line
 ## if the preceding line is the beginning of a paragraph.
-set autoindent 2
+# set autoindent 2
 
 ## Back up files to the current filename plus a tilde.
 # set backup
@@ -63,21 +63,21 @@ set autoindent 2
 # set guidestripe 75
 
 ## Remember the used search/replace strings for the next session.
-set historylog
+# set historylog
 
 ## Display a "scrollbar" on the righthand side of the edit window.
-set indicator
+# set indicator
 
 ## Scroll the buffer contents per half-screen instead of per line.
 # set jumpyscrolling
 
 ## Display line numbers to the left (and any anchors in the margin).
-set linenumbers
+# set linenumbers
 
 ## Enable vim-style lock-files.  This is just to let a vim user know you
 ## are editing a file [s]he is trying to edit and vice versa.  There are
 ## no plans to implement vim-style undo state in these files.
-set locking
+# set locking
 
 ## Fall back to slow libmagic to try and determine an applicable syntax.
 # set magic
@@ -105,7 +105,7 @@ set locking
 # set noconvert
 
 ## Don't display the helpful shortcut lists at the bottom of the screen.
-set nohelp
+# set nohelp
 
 ## Don't automatically add a newline when a file does not end with one.
 # set nonewlines
@@ -158,7 +158,7 @@ set nohelp
 ## will jump to that beginning (either forwards or backwards).  If the
 ## cursor is already at that position, it will jump to the true start
 ## of the line (the left edge).
-set smarthome
+# set smarthome
 
 ## Spread overlong lines over multiple screen lines.
 # set softwrap
@@ -169,7 +169,7 @@ set smarthome
 
 ## Use the end of the title bar for some state flags: I = auto-indenting,
 ## M = mark, L = hard-wrapping long lines, R = recording, S = soft-wrapping.
-set stateflags
+# set stateflags
 
 ## Use this tab size instead of the default; it must be greater than 0.
 # set tabsize 8
@@ -290,77 +290,6 @@ include "/usr/share/nano/*.nanorc"
 ## and then pipe the selected text through a sed command.)
 #bind Sh-M-U "^[Oc^[[1;6D^T|sed 's/.*/\U&/'^M" main
 #bind Sh-M-L "^[Oc^[[1;6D^T|sed 's/.*/\L&/'^M" main
-
-#unbind M-D main
-#unbind M-F main
-
-## unbind default bindings
-unbind M-3 all
-unbind M-6 all
-unbind ^L all
-unbind ^J all
-#unbind M-E main
-#unbind M-U main
-unbind M-B all
-unbind M-D all
-unbind M-G all
-unbind M-I all
-unbind M-C main
-unbind M-F main
-unbind M-S main
-unbind M-H all
-unbind M-L all
-unbind M-K all
-unbind M-M all
-unbind M-N all
-unbind M-O all
-unbind M-P all
-unbind M-J all
-unbind M-V all
-
-## comments
-#bind ^/ comment all
-
-## left, up, down, right
-bind M-I up all
-bind M-K down all
-bind M-J left all
-bind M-L right all
-
-## home, end
-bind M-S home main
-bind M-F end main
-
-## new line
-bind M-M enter all
-
-## backspace, delete
-bind M-H backspace all
-bind M-D delete all
-
-## page up, page down
-bind Sh-M-I pageup all
-bind Sh-M-K pagedown all
-
-## undo/redo
-#bind M-P undo main
-#bind M-N redo main
-
-## next word, prev word
-bind M-P prevword all
-bind M-N nextword all
-
-## chop word left, chop word right
-#bind Sh-M-H chopwordleft all
-#bind Sh-M-L chopwordright all
-
-## cut/copy/paste
-#bind M-K cut all
-#bind M-O copy all
-#bind M-P paste all
-
-## mark/unmark
-#bind M-E mark main
 
 ## If you would like nano to have keybindings that are more "usual",
 ## such as ^O for Open, ^F for Find, ^H for Help, and ^Q for Quit,
