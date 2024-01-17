@@ -1,11 +1,65 @@
-#set autoindent
-#set casesensitive
-#set minibar
-set smarthome
-set nowrap
-#set tabsize 8
-#set tabstospaces
-set linenumbers
-set smooth
-set nohelp
+set autoindent
 set constantshow
+set linenumbers
+set nohelp
+set nowrap
+set smarthome
+set smooth
+
+## Unbind default bindings
+unbind ^L all
+unbind ^J all
+unbind M-6 all
+unbind M-B all
+unbind M-D all
+unbind M-G all
+unbind M-I all
+unbind M-C main
+unbind M-F main
+unbind M-S main
+unbind M-H all
+unbind M-L all
+unbind M-K all
+unbind M-M all
+unbind M-N all
+unbind M-O all
+unbind M-P all
+unbind M-J all
+unbind M-V all
+
+## comments
+#bind ^/ comment all
+
+## left, up, down, right
+bind M-I up all
+bind M-K down all
+bind M-J left all
+bind M-L right all
+
+## home, end
+bind M-S home main
+bind M-F end main
+
+## new line
+bind M-M enter all
+
+## backspace, delete
+bind M-H backspace all
+bind M-D delete all
+
+## page up, page down
+bind Sh-M-I pageup all
+bind Sh-M-K pagedown all
+
+## next word, prev word
+bind M-P prevword all
+bind M-N nextword all
+
+## chop word left, chop word right
+#bind Sh-M-H chopwordleft all
+#bind Sh-M-L chopwordright all
+
+## cut/copy/paste
+#bind M-K cut all
+#bind M-O copy all
+#bind M-P paste all
