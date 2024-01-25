@@ -28,7 +28,7 @@ unbind M-J all
 unbind M-V all
 
 ## comments
-#bind ^/ comment all
+bind ^/ comment all
 
 ## left, up, down, right
 bind M-I up all
@@ -48,12 +48,14 @@ bind M-H backspace all
 bind M-D delete all
 
 ## page up, page down
-bind Sh-M-I pageup all
-bind Sh-M-K pagedown all
+bind ^P pageup all
+bind ^N pagedown all
 
 ## next word, prev word
 bind M-P prevword all
 bind M-N nextword all
+#bind ^L nextword all
+#bind ^J prevword all
 
 ## chop word left, chop word right
 #bind Sh-M-H chopwordleft all
@@ -61,5 +63,9 @@ bind M-N nextword all
 
 ## cut/copy/paste
 #bind M-K cut all
-#bind M-O copy all
-#bind M-P paste all
+bind ^L copy all
+bind ^J paste all
+
+## misc
+#bind whitespacedisplay main
+#bind ^L linter main
