@@ -47,7 +47,7 @@ bind M-M enter all
 
 ## backspace, delete
 bind M-H backspace all
-#bind M-D delete all
+bind M-D delete all
 
 ## page up, page down
 #bind ^P pageup all
@@ -58,8 +58,8 @@ bind ^P prevblock main
 bind ^N nextblock main
 
 ## next word, prev word
-bind M-P prevword all
-bind M-D nextword all
+bind M-B prevword all
+bind M-N nextword all
 #bind ^L nextword all
 #bind ^J prevword all
 
