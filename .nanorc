@@ -1,4 +1,6 @@
 set autoindent
+set tabstospaces
+set tabsize 4
 set constantshow
 set linenumbers
 set nohelp
@@ -45,21 +47,25 @@ bind M-M enter all
 
 ## backspace, delete
 bind M-H backspace all
-bind M-D delete all
+#bind M-D delete all
 
 ## page up, page down
-bind ^P pageup all
-bind ^N pagedown all
+#bind ^P pageup all
+#bind ^N pagedown all
+
+## nextblock, prevblock
+bind ^P prevblock main
+bind ^N nextblock main
 
 ## next word, prev word
 bind M-P prevword all
-bind M-N nextword all
+bind M-D nextword all
 #bind ^L nextword all
 #bind ^J prevword all
 
 ## chop word left, chop word right
 #bind Sh-M-H chopwordleft all
-#bind Sh-M-L chopwordright all
+#bind M-D chopwordright all
 
 ## cut/copy/paste
 #bind M-K cut all
