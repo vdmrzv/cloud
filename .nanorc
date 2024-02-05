@@ -33,7 +33,7 @@ unbind M-V all
 
 ## undo/redo
 #bind ^J undo all
-#bind ^L redo all
+bind M-R redo all
 
 ## comments
 #bind ^/ comment all
@@ -70,20 +70,17 @@ bind ^J pagedown all
 ## nextword, prevword
 bind M-B prevword main
 bind M-F nextword main
-#bind M-P prevword all
-#bind ^L nextword all
-#bind ^J prevword all
 
 ## chop word left, chop word right
 #bind M-H chopwordleft all
 #bind M-D chopwordright all
 
 # cut/copy/paste
-bind M-O cut all
-bind M-I copy all
-#bind ^L copy all
+bind M-I cut all
+bind M-O copy all
 bind M-P paste all
 
 ## misc
+bind M-T replace all
 #bind M-P whitespacedisplay main
 #bind ^L linter main
