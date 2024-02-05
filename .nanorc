@@ -25,53 +25,65 @@ unbind M-K all
 unbind M-M all
 unbind M-N all
 unbind M-O all
+#unbind M-U all
 unbind M-P all
+unbind M-T main
 unbind M-J all
 unbind M-V all
 
+## undo/redo
+#bind M-N undo all
+#bind M-O redo all
+
 ## comments
-bind ^/ comment all
+#bind ^/ comment all
 
 ## left, up, down, right
-bind M-I up all
-bind M-K down all
-bind M-J left all
+bind M-H left all
+bind M-K up all
+bind M-J down all
 bind M-L right all
 
 ## home, end
 bind M-S home main
-bind M-F end main
+bind M-E end main
 
 ## new line
 bind M-M enter all
 
 ## backspace, delete
-bind M-H backspace all
+#bind M-H backspace all
 bind M-D delete all
 
 ## page up, page down
 #bind ^P pageup all
 #bind ^N pagedown all
 
-## nextblock, prevblock
-bind ^P prevblock main
-bind ^N nextblock main
+## beginpara, endpara
+bind ^P beginpara main
+bind ^N endpara main
 
-## next word, prev word
-bind M-B prevword all
-bind M-N nextword all
+## nextblock, prevblock
+bind M-I prevblock main
+bind M-N nextblock main
+
+## nextword, prevword
+bind M-B prevword main
+bind M-F nextword main
+#bind M-P prevword all
 #bind ^L nextword all
 #bind ^J prevword all
 
 ## chop word left, chop word right
-#bind Sh-M-H chopwordleft all
+#bind M-H chopwordleft all
 #bind M-D chopwordright all
 
 ## cut/copy/paste
 #bind M-K cut all
-bind ^L copy all
-bind ^J paste all
+bind M-P copy all
+#bind ^L copy all
+#bind ^J paste all
 
 ## misc
-#bind whitespacedisplay main
+#bind M-P whitespacedisplay main
 #bind ^L linter main
