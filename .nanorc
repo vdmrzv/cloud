@@ -6,7 +6,7 @@ set linenumbers
 set nohelp
 set nowrap
 set smarthome
-set smooth
+#set smooth
 
 ## Unbind default bindings
 unbind ^L all
@@ -27,19 +27,19 @@ unbind M-N all
 unbind M-O all
 #unbind M-U all
 unbind M-P all
-unbind M-T main
+unbind M-T all
 unbind M-J all
 unbind M-V all
 
 ## undo/redo
-#bind M-N undo all
-#bind M-O redo all
+#bind ^J undo all
+#bind ^L redo all
 
 ## comments
 #bind ^/ comment all
 
 ## left, up, down, right
-bind M-H left all
+bind M-N left all
 bind M-K up all
 bind M-J down all
 bind M-L right all
@@ -52,20 +52,20 @@ bind M-E end main
 bind M-M enter all
 
 ## backspace, delete
-#bind M-H backspace all
+bind M-H backspace all
 bind M-D delete all
 
 ## page up, page down
-#bind ^P pageup all
-#bind ^N pagedown all
+bind ^K pageup all
+bind ^J pagedown all
 
 ## beginpara, endpara
-bind ^P beginpara main
-bind ^N endpara main
+#bind ^P beginpara main
+#bind ^N endpara main
 
 ## nextblock, prevblock
-bind M-I prevblock main
-bind M-N nextblock main
+#bind M-I prevblock main
+#bind M-N nextblock main
 
 ## nextword, prevword
 bind M-B prevword main
@@ -78,11 +78,11 @@ bind M-F nextword main
 #bind M-H chopwordleft all
 #bind M-D chopwordright all
 
-## cut/copy/paste
-#bind M-K cut all
-bind M-P copy all
+# cut/copy/paste
+bind M-O cut all
+bind M-I copy all
 #bind ^L copy all
-#bind ^J paste all
+bind M-P paste all
 
 ## misc
 #bind M-P whitespacedisplay main
