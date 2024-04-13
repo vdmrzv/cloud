@@ -1,3 +1,5 @@
+include "/usr/share/nano/*.nanorc"
+
 set autoindent
 set tabstospaces
 set tabsize 4
@@ -77,7 +79,7 @@ bind M-F nextword main
 
 # cut/copy/paste
 bind M-I cut all
-bind M-O copy all
+bind M-C copy all
 bind M-P paste all
 
 ## misc

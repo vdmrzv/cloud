@@ -542,7 +542,7 @@
         "when": "textInputFocus"
     },
     {
-        "key": "alt+o",
+        "key": "alt+c",
         "command": "editor.action.clipboardCopyAction"
     },
     {
