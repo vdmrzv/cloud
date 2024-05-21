@@ -11,3 +11,8 @@ hardstatus alwayslastline "%{= gk} %S |%{= gk} %-w%{W}%n*%t%{-}%+w %=%{G} %=%{gk
 screen -t 'nano'
 screen -t 'bash'
 select 0
+
+bind j focus down
+bind k focus up
+bind h focus left
+bind l focus right
