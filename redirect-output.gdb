@@ -20,10 +20,3 @@ class RedirOutput(gdb.Command):
 
 RedirOutput()
 end
-
-define kek
-pipe bt | grep engine >> bt.txt
-rdr p valid_templates.size() -o ./size.txt
-rdr p "$$$" -o ./bt.txt
-continue
-end
