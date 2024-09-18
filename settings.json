@@ -1,51 +1,13 @@
 {
-    "editor.cursorStyle": "block",
-    "html.autoClosingTags": false,
-    "html.autoCreateQuotes": false,
-    "window.menuBarVisibility": "toggle",
-    "[vue]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "editor.defaultFormatter": "vscode.css-language-features",
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[xml]": {
-        "editor.defaultFormatter": "redhat.vscode-xml"
-    },
-    "workbench.editorAssociations": {
-        "*.pdf": "default"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "[c]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "[cpp]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
     "editor.tabSize": 2,
-    "window.zoomLevel": 1,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-    "[cuda-cpp]": {
-        "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "editor.minimap.enabled": false,
-    "files.autoSave": "afterDelay",
+    "editor.insertSpaces": true,
+    "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
     "window.customMenuBarAltFocus": false,
-    "window.enableMenuBarMnemonics": false,
+    "window.customTitleBarVisibility": "auto",
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "cmake.configureOnOpen": false,
 }
-
