@@ -1,5 +1,5 @@
-source ~/stl-views.gdb
-source ~/redirect-output.gdb
+#source ~/stl-views.gdb
+#source ~/redirect-output.gdb
 
 set disassembly-flavor intel
 set startup-quietly on

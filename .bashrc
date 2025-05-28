@@ -88,16 +88,20 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias less='less -R'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
 # See /usr/share/doc/bash-doc/examples in the bash-doc package.
-alias l='ls -CF'
-alias la='ls -A'
-alias ll='ls -alF'
-alias less='less -R'
-alias copy='xclip -selection clipboard'
-
 
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
@@ -114,6 +118,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
+alias copy='xclip -selection clipboard'
 
 # force nano to use tabs in Makefile`s
 nano() {
@@ -135,5 +140,22 @@ count() {
 # -n show line numbers
 search() {
     local str="$1"
-    grep --color=always -I -i -R -n . -e "$str"
+#    grep --color=always -F -I -i -R -n . -e "$str" | awk -F: '{print $1 ":" $2 ":"; print $3; print ""}'
+    grep --color=always -F -I -i -R -n . -e "$str" | awk -F: '{
+        printf "%s:%s:\n", $1, $2;
+        # Reconstruct line after the second colon
+        line = $3;
+        for (i = 4; i <= NF; i++) line = line ":" $i;
+        print line "\n"
+    }'
+}
+
+ask() {
+    if [[ -f "$1" ]]; then
+        local str
+        str=$(< "$1")  # Read full content of file into variable
+    else
+        local str="$1"  # Use direct string argument
+    fi
+    python3 ~/script/ask.py "$str"
 }
