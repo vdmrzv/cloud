@@ -93,6 +93,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias less='less -R'
+alias copy='xclip -selection clipboard'
+alias untar='tar -xzvf'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -118,7 +120,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias copy='xclip -selection clipboard'
 
 # force nano to use tabs in Makefile`s
 nano() {
@@ -134,16 +135,15 @@ count() {
     find . -name "*.$ext" | xargs wc -l | sort -n
 }
 
+# -F Interpret PATTERNS as fixed strings, not regular expressions (makes search faster).
 # -I ignore binary files
 # -i case insensitive
 # -R recursive
 # -n show line numbers
 search() {
     local str="$1"
-#    grep --color=always -F -I -i -R -n . -e "$str" | awk -F: '{print $1 ":" $2 ":"; print $3; print ""}'
     grep --color=always -F -I -i -R -n . -e "$str" | awk -F: '{
         printf "%s:%s:\n", $1, $2;
-        # Reconstruct line after the second colon
         line = $3;
         for (i = 4; i <= NF; i++) line = line ":" $i;
         print line "\n"
