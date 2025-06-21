@@ -37,6 +37,10 @@ unbind M-V all
 #bind ^J undo all
 bind M-R redo all
 
+bind ^O insert main
+bind ^R replace main
+
+
 ## comments
 #bind ^/ comment all
 
@@ -84,5 +88,5 @@ bind M-P paste all
 
 ## misc
 bind M-T replace all
-#bind M-P whitespacedisplay main
+bind M-O whitespacedisplay main
 #bind ^L linter main
