@@ -1,33 +1,37 @@
 include "/usr/share/nano/*.nanorc"
 
-set autoindent
-set tabstospaces
-set tabsize 4
-set constantshow
-set linenumbers
 set nohelp
 set nowrap
+set tabsize 4
 set smarthome
-#set smooth
+set autoindent
+set linenumbers
+set tabstospaces
+set constantshow
+
+## handle nextword logic
+set afterends
+set wordchars "A-Za-z0-9=+-/,_"
 
 ## Unbind default bindings
 unbind ^L all
 unbind ^J all
+
+unbind M-C main
+unbind M-F main
+unbind M-S main
+
 unbind M-6 all
 unbind M-B all
 unbind M-D all
 unbind M-G all
 unbind M-I all
-unbind M-C main
-unbind M-F main
-unbind M-S main
 unbind M-H all
 unbind M-L all
 unbind M-K all
 unbind M-M all
 unbind M-N all
 unbind M-O all
-#unbind M-U all
 unbind M-P all
 unbind M-T all
 unbind M-J all
@@ -39,7 +43,6 @@ bind M-R redo all
 
 bind ^O insert main
 bind ^R replace main
-
 
 ## comments
 #bind ^/ comment all
@@ -81,12 +84,14 @@ bind M-F nextword main
 #bind M-H chopwordleft all
 #bind M-D chopwordright all
 
-# cut/copy/paste
+## cut/copy/paste
 bind M-I cut all
 bind M-C copy all
 bind M-P paste all
 
+## copy to global clipboard
+bind ^C "{execute}| xsel -ib {enter}{undo}" main
+
 ## misc
 bind M-T replace all
 bind M-O whitespacedisplay main
-#bind ^L linter main
