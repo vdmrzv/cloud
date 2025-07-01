@@ -8,7 +8,7 @@ defscrollback 4096
 termcapinfo vt100 dl=5\E[M
 hardstatus alwayslastline "%{= gk} %S |%{= gk} %-w%{W}%n*%t%{-}%+w %=%{G} %=%{gk} %c:%s %d/%m/%y "
 
-screen -t 'nano'
+screen -t 'bash'
 screen -t 'bash'
 select 0
 
