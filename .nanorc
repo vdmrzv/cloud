@@ -11,7 +11,7 @@ set constantshow
 
 ## handle nextword logic
 set afterends
-set wordchars "A-Za-z0-9=+-/,_"
+set wordchars "A-Za-z0-9=+-,_"
 
 ## Unbind default bindings
 unbind ^L all
