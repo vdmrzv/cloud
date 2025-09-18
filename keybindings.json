@@ -120,7 +120,11 @@
     },
     {
         "key": "alt+m",
-        "command": "newLine.insert"
+        "command": "type",
+        "args": {
+            "text": "\n"
+        },
+        "when": "editorTextFocus"
     },
     {
         "key": "alt+h",
